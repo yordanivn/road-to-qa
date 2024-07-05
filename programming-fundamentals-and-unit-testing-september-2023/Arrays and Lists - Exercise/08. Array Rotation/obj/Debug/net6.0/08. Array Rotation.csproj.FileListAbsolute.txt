@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.exe
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.deps.json
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\bin\Debug\net6.0\08. Array Rotation.pdb
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\refint\08. Array Rotation.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.pdb
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\08. Array Rotation.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\08. Array Rotation\obj\Debug\net6.0\ref\08. Array Rotation.dll

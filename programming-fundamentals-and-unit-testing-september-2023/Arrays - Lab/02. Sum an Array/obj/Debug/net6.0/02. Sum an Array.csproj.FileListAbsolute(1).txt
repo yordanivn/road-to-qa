@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.exe
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.deps.json
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.dll
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.pdb
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.dll
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\refint\02. Sum an Array.dll
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.pdb
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\ref\02. Sum an Array.dll

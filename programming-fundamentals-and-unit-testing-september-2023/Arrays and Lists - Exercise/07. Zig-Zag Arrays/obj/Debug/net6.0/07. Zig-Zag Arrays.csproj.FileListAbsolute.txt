@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.exe
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.deps.json
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\bin\Debug\net6.0\07. Zig-Zag Arrays.pdb
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\refint\07. Zig-Zag Arrays.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.pdb
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\07. Zig-Zag Arrays.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\07. Zig-Zag Arrays\obj\Debug\net6.0\ref\07. Zig-Zag Arrays.dll

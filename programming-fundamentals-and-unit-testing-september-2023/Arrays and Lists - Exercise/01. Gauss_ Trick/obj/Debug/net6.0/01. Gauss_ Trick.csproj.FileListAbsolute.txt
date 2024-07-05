@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.exe
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.deps.json
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.pdb
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\refint\01. Gauss' Trick.dll
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.pdb
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Arrays and Lists - Exercise\01. Gauss' Trick\obj\Debug\net6.0\ref\01. Gauss' Trick.dll
