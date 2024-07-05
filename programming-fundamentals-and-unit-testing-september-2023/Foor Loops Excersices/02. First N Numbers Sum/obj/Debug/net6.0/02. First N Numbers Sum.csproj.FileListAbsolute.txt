@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.exe
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.deps.json
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.dll
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\bin\Debug\net6.0\02. First N Numbers Sum.pdb
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.dll
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\refint\02. First N Numbers Sum.dll
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.pdb
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\02. First N Numbers Sum.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\02. First N Numbers Sum\obj\Debug\net6.0\ref\02. First N Numbers Sum.dll

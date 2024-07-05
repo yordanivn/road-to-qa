@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\refint\06. Product of Three Numbers.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\ref\06. Product of Three Numbers.dll

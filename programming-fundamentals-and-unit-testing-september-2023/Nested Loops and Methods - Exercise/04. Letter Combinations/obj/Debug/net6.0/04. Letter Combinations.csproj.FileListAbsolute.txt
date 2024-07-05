@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.exe
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.deps.json
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.dll
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\bin\Debug\net6.0\04. Letter Combinations.pdb
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.dll
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\refint\04. Letter Combinations.dll
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.pdb
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\04. Letter Combinations.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Nested Loops and Methods - Exercise\04. Letter Combinations\obj\Debug\net6.0\ref\04. Letter Combinations.dll

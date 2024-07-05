@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\bin\Debug\net6.0\1. Number up to 1000 einding in 7.exe
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\bin\Debug\net6.0\1. Number up to 1000 einding in 7.deps.json
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\bin\Debug\net6.0\1. Number up to 1000 einding in 7.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\bin\Debug\net6.0\1. Number up to 1000 einding in 7.dll
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\bin\Debug\net6.0\1. Number up to 1000 einding in 7.pdb
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.dll
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\refint\1. Number up to 1000 einding in 7.dll
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.pdb
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\1. Number up to 1000 einding in 7.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple Loops\1. Number up to 1000 einding in 7\obj\Debug\net6.0\ref\1. Number up to 1000 einding in 7.dll

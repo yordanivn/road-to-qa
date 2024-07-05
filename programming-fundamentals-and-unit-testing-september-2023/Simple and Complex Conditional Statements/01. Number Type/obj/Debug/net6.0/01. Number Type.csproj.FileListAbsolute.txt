@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\refint\01. Number Type.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\ref\01. Number Type.dll

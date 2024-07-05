@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\refint\04. Number Operations.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\ref\04. Number Operations.dll

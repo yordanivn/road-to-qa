@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\bin\Debug\net6.0\07. Working Hours.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\bin\Debug\net6.0\07. Working Hours.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\bin\Debug\net6.0\07. Working Hours.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\bin\Debug\net6.0\07. Working Hours.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\bin\Debug\net6.0\07. Working Hours.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\refint\07. Working Hours.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\07. Working Hours.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\07. Working Hours\obj\Debug\net6.0\ref\07. Working Hours.dll

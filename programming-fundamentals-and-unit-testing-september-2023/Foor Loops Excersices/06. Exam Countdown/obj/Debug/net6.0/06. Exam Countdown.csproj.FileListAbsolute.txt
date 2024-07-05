@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.exe
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.deps.json
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.dll
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.pdb
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.dll
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\refint\06. Exam Countdown.dll
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.pdb
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Foor Loops Excersices\06. Exam Countdown\obj\Debug\net6.0\ref\06. Exam Countdown.dll

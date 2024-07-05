@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\bin\Debug\net6.0\06. Cinema Tickets.exe
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\bin\Debug\net6.0\06. Cinema Tickets.deps.json
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\bin\Debug\net6.0\06. Cinema Tickets.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\bin\Debug\net6.0\06. Cinema Tickets.dll
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\bin\Debug\net6.0\06. Cinema Tickets.pdb
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.dll
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\refint\06. Cinema Tickets.dll
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.pdb
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\06. Cinema Tickets.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Nested Loops\06. Cinema Tickets\obj\Debug\net6.0\ref\06. Cinema Tickets.dll

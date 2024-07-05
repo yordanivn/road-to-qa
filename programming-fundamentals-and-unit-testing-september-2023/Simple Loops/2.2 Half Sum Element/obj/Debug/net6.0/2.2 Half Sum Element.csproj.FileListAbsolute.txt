@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\bin\Debug\net6.0\2.2 Half Sum Element.exe
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\bin\Debug\net6.0\2.2 Half Sum Element.deps.json
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\bin\Debug\net6.0\2.2 Half Sum Element.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\bin\Debug\net6.0\2.2 Half Sum Element.dll
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\bin\Debug\net6.0\2.2 Half Sum Element.pdb
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.dll
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\refint\2.2 Half Sum Element.dll
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.pdb
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\2.2 Half Sum Element.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple Loops\2.2 Half Sum Element\obj\Debug\net6.0\ref\2.2 Half Sum Element.dll

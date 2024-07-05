@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.exe
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.deps.json
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.dll
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\bin\Debug\net6.0\02. Equal Sum of Even and Odd.pdb
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.dll
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\refint\02. Equal Sum of Even and Odd.dll
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.pdb
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\02. Equal Sum of Even and Odd.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Nested Loops\02. Equal Sum of Even and Odd\obj\Debug\net6.0\ref\02. Equal Sum of Even and Odd.dll

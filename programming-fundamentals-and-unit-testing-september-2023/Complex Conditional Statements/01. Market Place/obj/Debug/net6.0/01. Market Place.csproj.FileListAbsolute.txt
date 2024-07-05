@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\bin\Debug\net6.0\01. Market Place.exe
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\bin\Debug\net6.0\01. Market Place.deps.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\bin\Debug\net6.0\01. Market Place.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\bin\Debug\net6.0\01. Market Place.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\bin\Debug\net6.0\01. Market Place.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\refint\01. Market Place.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\01. Market Place.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\01. Market Place\obj\Debug\net6.0\ref\01. Market Place.dll

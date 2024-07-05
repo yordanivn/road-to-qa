@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.exe
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.deps.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\refint\03. Bonus Score.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\03. Bonus Score\obj\Debug\net6.0\ref\03. Bonus Score.dll

@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\refint\02. ATM.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\02. ATM\obj\Debug\net6.0\ref\02. ATM.dll

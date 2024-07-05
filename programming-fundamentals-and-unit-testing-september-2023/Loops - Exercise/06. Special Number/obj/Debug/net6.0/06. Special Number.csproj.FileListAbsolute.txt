@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.exe
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.deps.json
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.dll
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.pdb
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.dll
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\refint\06. Special Number.dll
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.pdb
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Loops - Exercise\06. Special Number\obj\Debug\net6.0\ref\06. Special Number.dll

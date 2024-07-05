@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\bin\Debug\net6.0\04. Train the Trainers.exe
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\bin\Debug\net6.0\04. Train the Trainers.deps.json
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\bin\Debug\net6.0\04. Train the Trainers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\bin\Debug\net6.0\04. Train the Trainers.dll
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\bin\Debug\net6.0\04. Train the Trainers.pdb
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.dll
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\refint\04. Train the Trainers.dll
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.pdb
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\04. Train the Trainers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Nested Loops\04. Train the Trainers\obj\Debug\net6.0\ref\04. Train the Trainers.dll

@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\refint\03. Biggest of Five Numbers.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\ref\03. Biggest of Five Numbers.dll

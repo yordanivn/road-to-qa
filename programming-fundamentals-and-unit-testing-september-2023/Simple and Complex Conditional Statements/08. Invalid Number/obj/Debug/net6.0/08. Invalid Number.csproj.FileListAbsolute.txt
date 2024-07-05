@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\bin\Debug\net6.0\08. Invalid Number.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\bin\Debug\net6.0\08. Invalid Number.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\bin\Debug\net6.0\08. Invalid Number.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\bin\Debug\net6.0\08. Invalid Number.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\bin\Debug\net6.0\08. Invalid Number.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\refint\08. Invalid Number.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\08. Invalid Number.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\08. Invalid Number\obj\Debug\net6.0\ref\08. Invalid Number.dll

@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\bin\Debug\net6.0\4. Exam Preparation.exe
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\bin\Debug\net6.0\4. Exam Preparation.deps.json
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\bin\Debug\net6.0\4. Exam Preparation.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\bin\Debug\net6.0\4. Exam Preparation.dll
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\bin\Debug\net6.0\4. Exam Preparation.pdb
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.dll
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\refint\4. Exam Preparation.dll
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.pdb
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\4. Exam Preparation.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple Loops\4. Exam Preparation\obj\Debug\net6.0\ref\4. Exam Preparation.dll

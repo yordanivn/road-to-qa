@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.exe
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.deps.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\bin\Debug\net6.0\10. Summer Outfit.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\refint\10. Summer Outfit.dll
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.pdb
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\10. Summer Outfit.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Simple and Complex Conditional Statements\10. Summer Outfit\obj\Debug\net6.0\ref\10. Summer Outfit.dll

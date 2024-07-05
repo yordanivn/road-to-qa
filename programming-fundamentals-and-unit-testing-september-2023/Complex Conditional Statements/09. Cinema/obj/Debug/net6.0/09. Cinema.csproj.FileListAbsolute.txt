@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net6.0\09. Cinema.exe
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net6.0\09. Cinema.deps.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net6.0\09. Cinema.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net6.0\09. Cinema.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net6.0\09. Cinema.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\refint\09. Cinema.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\09. Cinema.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net6.0\ref\09. Cinema.dll

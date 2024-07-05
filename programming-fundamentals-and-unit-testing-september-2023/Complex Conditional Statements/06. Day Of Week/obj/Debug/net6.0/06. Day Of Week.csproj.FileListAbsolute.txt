@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.exe
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.deps.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\bin\Debug\net6.0\06. Day Of Week.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\refint\06. Day Of Week.dll
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.pdb
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\06. Day Of Week.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Complex Conditional Statements\06. Day Of Week\obj\Debug\net6.0\ref\06. Day Of Week.dll
