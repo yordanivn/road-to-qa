@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\bin\Debug\net6.0\01. Calculate Sum Prime Numbers.exe
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\bin\Debug\net6.0\01. Calculate Sum Prime Numbers.deps.json
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\bin\Debug\net6.0\01. Calculate Sum Prime Numbers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\bin\Debug\net6.0\01. Calculate Sum Prime Numbers.dll
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\bin\Debug\net6.0\01. Calculate Sum Prime Numbers.pdb
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.dll
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\refint\01. Calculate Sum Prime Numbers.dll
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.pdb
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\01. Calculate Sum Prime Numbers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\01. Calculate Sum Prime Numbers\obj\Debug\net6.0\ref\01. Calculate Sum Prime Numbers.dll

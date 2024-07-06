@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\bin\Debug\net6.0\02. Bigger Numbers.exe
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\bin\Debug\net6.0\02. Bigger Numbers.deps.json
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\bin\Debug\net6.0\02. Bigger Numbers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\bin\Debug\net6.0\02. Bigger Numbers.dll
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\bin\Debug\net6.0\02. Bigger Numbers.pdb
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.dll
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\refint\02. Bigger Numbers.dll
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.pdb
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\02. Bigger Numbers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Programming Fundamentals and Unit Testing Retake Exam\02. Bigger Numbers\obj\Debug\net6.0\ref\02. Bigger Numbers.dll

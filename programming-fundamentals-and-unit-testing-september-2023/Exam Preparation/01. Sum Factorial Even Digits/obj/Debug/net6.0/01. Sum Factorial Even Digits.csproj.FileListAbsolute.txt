@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.exe
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.deps.json
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.dll
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\bin\Debug\net6.0\01. Sum Factorial Even Digits.pdb
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.dll
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\refint\01. Sum Factorial Even Digits.dll
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.pdb
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\01. Sum Factorial Even Digits.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Exam Preparation\01. Sum Factorial Even Digits\obj\Debug\net6.0\ref\01. Sum Factorial Even Digits.dll

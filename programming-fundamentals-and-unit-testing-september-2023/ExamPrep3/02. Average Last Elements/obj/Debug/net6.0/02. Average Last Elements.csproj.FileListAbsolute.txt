@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.exe
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.deps.json
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.runtimeconfig.json
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.dll
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\bin\Debug\net6.0\02. Average Last Elements.pdb
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.dll
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\refint\02. Average Last Elements.dll
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.pdb
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\02. Average Last Elements.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\ExamPrep3\02. Average Last Elements\obj\Debug\net6.0\ref\02. Average Last Elements.dll

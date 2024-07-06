@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.exe
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.deps.json
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.runtimeconfig.json
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.dll
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\bin\Debug\net6.0\01. English Name of Each Digit.pdb
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.dll
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\refint\01. English Name of Each Digit.dll
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.pdb
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\01. English Name of Each Digit.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\ExamPrep3\01. English Name of Each Digit\obj\Debug\net6.0\ref\01. English Name of Each Digit.dll

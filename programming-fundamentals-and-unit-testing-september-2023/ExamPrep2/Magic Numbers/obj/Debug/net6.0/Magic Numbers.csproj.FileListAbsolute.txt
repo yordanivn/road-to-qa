@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\bin\Debug\net6.0\Magic Numbers.exe
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\bin\Debug\net6.0\Magic Numbers.deps.json
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\bin\Debug\net6.0\Magic Numbers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\bin\Debug\net6.0\Magic Numbers.dll
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\bin\Debug\net6.0\Magic Numbers.pdb
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.dll
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\refint\Magic Numbers.dll
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.pdb
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\Magic Numbers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\ExamPrep2\Magic Numbers\obj\Debug\net6.0\ref\Magic Numbers.dll
