@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.exe
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.deps.json
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.dll
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\bin\Debug\net6.0\05. List Manipulation Advanced.pdb
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.dll
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\refint\05. List Manipulation Advanced.dll
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.pdb
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\05. List Manipulation Advanced.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Lists - Lab\05. List Manipulation Advanced\obj\Debug\net6.0\ref\05. List Manipulation Advanced.dll
