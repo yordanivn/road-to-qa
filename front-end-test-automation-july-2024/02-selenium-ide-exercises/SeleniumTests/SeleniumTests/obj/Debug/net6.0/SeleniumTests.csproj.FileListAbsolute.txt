@@ -1,0 +1,5 @@
+/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/02-selenium-ide-exercises/SeleniumTests/SeleniumTests/obj/Debug/net6.0/SeleniumTests.csproj.AssemblyReference.cache
+/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/02-selenium-ide-exercises/SeleniumTests/SeleniumTests/obj/Debug/net6.0/SeleniumTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/02-selenium-ide-exercises/SeleniumTests/SeleniumTests/obj/Debug/net6.0/SeleniumTests.AssemblyInfoInputs.cache
+/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/02-selenium-ide-exercises/SeleniumTests/SeleniumTests/obj/Debug/net6.0/SeleniumTests.AssemblyInfo.cs
+/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/02-selenium-ide-exercises/SeleniumTests/SeleniumTests/obj/Debug/net6.0/SeleniumTests.csproj.CoreCompileInputs.cache

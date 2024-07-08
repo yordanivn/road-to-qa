@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A32686D7-AFF3-4542-83B7-7839395585C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.SeleniumTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumTests/31LoginInvalidUserAndRetryTest.cs">
+    <Files>
+      <File FileName="SeleniumTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="SeleniumTests/31LoginInvalidUserAndRetryTest.cs" Line="19" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumTests" expanded="True">
+            <Node name="SeleniumTests" expanded="True">
+              <Node name="31LoginInvalidUserAndRetryTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumTests" expanded="True">
+            <Node name="SeleniumTests" expanded="True">
+              <Node name="SeleniumTests" expanded="True">
+                <Node name="Tests" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
