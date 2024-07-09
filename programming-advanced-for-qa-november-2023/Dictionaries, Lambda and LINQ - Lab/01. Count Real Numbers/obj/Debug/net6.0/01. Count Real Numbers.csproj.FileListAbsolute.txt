@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.exe
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.deps.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\refint\01. Count Real Numbers.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\net6.0\ref\01. Count Real Numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.exe
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.deps.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\bin\Debug\net6.0\06. Company Users.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\refint\06. Company Users.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\06. Company Users.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\06. Company Users\obj\Debug\net6.0\ref\06. Company Users.dll

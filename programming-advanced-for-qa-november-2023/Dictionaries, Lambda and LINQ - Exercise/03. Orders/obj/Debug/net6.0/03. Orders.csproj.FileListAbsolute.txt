@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.exe
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.deps.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\bin\Debug\net6.0\03. Orders.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\refint\03. Orders.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\03. Orders.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Exercise\03. Orders\obj\Debug\net6.0\ref\03. Orders.dll

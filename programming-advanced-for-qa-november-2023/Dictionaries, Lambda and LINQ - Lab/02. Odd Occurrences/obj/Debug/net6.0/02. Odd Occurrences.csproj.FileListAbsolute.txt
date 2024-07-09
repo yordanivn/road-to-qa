@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.exe
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.deps.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\net6.0\02. Odd Occurrences.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\refint\02. Odd Occurrences.dll
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.pdb
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\02. Odd Occurrences.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\net6.0\ref\02. Odd Occurrences.dll
