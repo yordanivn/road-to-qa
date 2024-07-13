@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium-web-driver-exercises", "selenium-web-driver-exercises\selenium-web-driver-exercises.csproj", "{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium-web-driver-tests", "selenium-web-driver-tests\selenium-web-driver-tests.csproj", "{163C6688-F08F-4008-ADBD-7891BD222D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163C6688-F08F-4008-ADBD-7891BD222D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163C6688-F08F-4008-ADBD-7891BD222D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163C6688-F08F-4008-ADBD-7891BD222D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163C6688-F08F-4008-ADBD-7891BD222D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD52A5E-9F99-4803-962A-4915DF5984EF}
+	EndGlobalSection
+EndGlobal

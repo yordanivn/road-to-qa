@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163C6688-F08F-4008-ADBD-7891BD222D5B}|selenium-web-driver-tests\\selenium-web-driver-tests.csproj|y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\selenium-web-driver-tests\\firsttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163C6688-F08F-4008-ADBD-7891BD222D5B}|selenium-web-driver-tests\\selenium-web-driver-tests.csproj|solutionrelative:selenium-web-driver-tests\\firsttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}|selenium-web-driver-exercises\\selenium-web-driver-exercises.csproj|y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\selenium-web-driver-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14A68AA-A3C3-4D8D-9B4D-5C1525E12910}|selenium-web-driver-exercises\\selenium-web-driver-exercises.csproj|solutionrelative:selenium-web-driver-exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstTest.cs",
+              "DocumentMoniker": "Y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\selenium-web-driver-tests\\FirstTest.cs",
+              "RelativeDocumentMoniker": "selenium-web-driver-tests\\FirstTest.cs",
+              "ToolTip": "Y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\selenium-web-driver-tests\\FirstTest.cs",
+              "RelativeToolTip": "selenium-web-driver-tests\\FirstTest.cs",
+              "ViewState": "AQIAAAsAAADgzMzMzIwqwBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:04:44.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\selenium-web-driver-exercises\\Program.cs",
+              "RelativeDocumentMoniker": "selenium-web-driver-exercises\\Program.cs",
+              "ToolTip": "Y:\\front-end-test-automation-july-2024\\03-selenium-web-driver\\selenium-web-driver-exercises\\selenium-web-driver-exercises\\Program.cs",
+              "RelativeToolTip": "selenium-web-driver-exercises\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:57:44.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
