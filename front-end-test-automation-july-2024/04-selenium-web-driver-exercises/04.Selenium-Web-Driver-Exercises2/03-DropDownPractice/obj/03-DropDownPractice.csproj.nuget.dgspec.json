@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/04-selenium-web-driver-exercises/04.Selenium-Web-Driver-Exercises2/03-DropDownPractice/03-DropDownPractice.csproj": {}
+  },
+  "projects": {
+    "/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/04-selenium-web-driver-exercises/04.Selenium-Web-Driver-Exercises2/03-DropDownPractice/03-DropDownPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/04-selenium-web-driver-exercises/04.Selenium-Web-Driver-Exercises2/03-DropDownPractice/03-DropDownPractice.csproj",
+        "projectName": "03-DropDownPractice",
+        "projectPath": "/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/04-selenium-web-driver-exercises/04.Selenium-Web-Driver-Exercises2/03-DropDownPractice/03-DropDownPractice.csproj",
+        "packagesPath": "/Users/yordan.i/.nuget/packages/",
+        "outputPath": "/Users/yordan.i/Personal/Softuni/front-end-test-automation-july-2024/04-selenium-web-driver-exercises/04.Selenium-Web-Driver-Exercises2/03-DropDownPractice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yordan.i/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

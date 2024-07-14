@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{87A8CB0D-6E78-448D-8943-B80B49D101F9}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1-HandlingFormInput PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="04-AutomatedCalculations/TestNumberCalculator.cs">
+    <Files>
+      <File FileName="1-HandlingFormInput/HandlingFormInput.cs" Line="1" Column="1" />
+      <File FileName="02-Working-with-web-tables/UnitTest1.cs" Line="9" Column="5" />
+      <File FileName="03-DropDownPractice/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="04-AutomatedCalculations/UnitTest1.cs" Line="60" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04.Selenium-Web-Driver-Exercises2" expanded="True">
+            <Node name="03-DropDownPractice" expanded="True" />
+            <Node name="04-AutomatedCalculations" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="04.Selenium-Web-Driver-Exercises2" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
