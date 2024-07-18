@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{0F744002-74E1-4B6E-94B2-ADEE5D6CE9E0}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StudentRegistryApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PagesTest/TestAddStudent.cs">
+    <Files>
+      <File FileName="Pages/BasePage.cs" Line="20" Column="84" />
+      <File FileName="Pages/HomePage.cs" Line="16" Column="4" />
+      <File FileName="Pages/AddStudent.cs" Line="24" Column="16" />
+      <File FileName="Pages/ViewStudents.cs" Line="1" Column="1" />
+      <File FileName="PagesTest/BaseTest.cs" Line="2" Column="1" />
+      <File FileName="PagesTest/TestViewStudents.cs" Line="1" Column="1" />
+      <File FileName="PagesTest/TestHomePage.cs" Line="36" Column="53" />
+      <File FileName="PagesTest/TestAddStudent.cs" Line="69" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentRegistryApp" expanded="True">
+            <Node name="StudentRegistryApp" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="PagesTest" expanded="True">
+                <Node name="TestAddStudent.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StudentRegistryApp">
+            <Node name="StudentRegistryApp" expanded="True">
+              <Node name="StudentRegistryApp.PagesTest">
+                <Node name="TestHomePage" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
