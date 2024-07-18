@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\bin\Debug\net6.0\Pokemon-3.exe
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\bin\Debug\net6.0\Pokemon-3.deps.json
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\bin\Debug\net6.0\Pokemon-3.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\bin\Debug\net6.0\Pokemon-3.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\bin\Debug\net6.0\Pokemon-3.pdb
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\refint\Pokemon-3.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.pdb
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\Pokemon-3.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon-3\obj\Debug\net6.0\ref\Pokemon-3.dll

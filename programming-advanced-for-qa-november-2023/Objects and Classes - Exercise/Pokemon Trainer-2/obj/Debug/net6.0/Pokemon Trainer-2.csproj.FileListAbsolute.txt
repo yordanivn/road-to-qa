@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\bin\Debug\net6.0\Pokemon Trainer-2.exe
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\bin\Debug\net6.0\Pokemon Trainer-2.deps.json
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\bin\Debug\net6.0\Pokemon Trainer-2.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\bin\Debug\net6.0\Pokemon Trainer-2.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\bin\Debug\net6.0\Pokemon Trainer-2.pdb
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\refint\Pokemon Trainer-2.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.pdb
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\Pokemon Trainer-2.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\Pokemon Trainer-2\obj\Debug\net6.0\ref\Pokemon Trainer-2.dll

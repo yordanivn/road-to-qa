@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\bin\Debug\net6.0\01. Students.exe
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\bin\Debug\net6.0\01. Students.deps.json
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\bin\Debug\net6.0\01. Students.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\bin\Debug\net6.0\01. Students.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\bin\Debug\net6.0\01. Students.pdb
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\refint\01. Students.dll
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.pdb
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\01. Students.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Objects and Classes - Exercise\01. Students\obj\Debug\net6.0\ref\01. Students.dll
