@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\net6.0\04. Text Filter.exe
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\net6.0\04. Text Filter.deps.json
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\net6.0\04. Text Filter.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\net6.0\04. Text Filter.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\bin\Debug\net6.0\04. Text Filter.pdb
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\refint\04. Text Filter.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.pdb
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\04. Text Filter.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\04. Text Filter\obj\Debug\net6.0\ref\04. Text Filter.dll

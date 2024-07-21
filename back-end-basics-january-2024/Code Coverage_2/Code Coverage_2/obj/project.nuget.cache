@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bksCzsrTN/L9FYY53aC2B8VLIm1xfOf4nKcrh+aWYcsoRgjDSuhKpYQIKPQkIoPQjHl5y7Yhb3r7mES2wAVjaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yordan.i\\source\\repos\\Code Coverage_2\\Code Coverage_2\\Code Coverage_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yordan.i\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yordan.i\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\yordan.i\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

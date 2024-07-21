@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\bin\Debug\net6.0\Testing Unit functions.exe
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\bin\Debug\net6.0\Testing Unit functions.deps.json
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\bin\Debug\net6.0\Testing Unit functions.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\bin\Debug\net6.0\Testing Unit functions.dll
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\bin\Debug\net6.0\Testing Unit functions.pdb
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.dll
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\refint\Testing Unit functions.dll
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.pdb
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\Testing Unit functions.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing Unit functions\obj\Debug\net6.0\ref\Testing Unit functions.dll

@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.exe
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.deps.json
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\bin\Debug\net6.0\01. Reverse Strings.pdb
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\refint\01. Reverse Strings.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.pdb
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\01. Reverse Strings.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\01. Reverse Strings\obj\Debug\net6.0\ref\01. Reverse Strings.dll

@@ -1,0 +1,17 @@
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\bin\Debug\net7.0\Code Coverage_2.exe
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\bin\Debug\net7.0\Code Coverage_2.deps.json
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\bin\Debug\net7.0\Code Coverage_2.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\bin\Debug\net7.0\Code Coverage_2.dll
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\bin\Debug\net7.0\Code Coverage_2.pdb
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.csproj.AssemblyReference.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.csproj.CopyComplete
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.dll
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\refint\Code Coverage_2.dll
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.pdb
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\Code Coverage_2.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\Code Coverage_2\obj\Debug\net7.0\ref\Code Coverage_2.dll

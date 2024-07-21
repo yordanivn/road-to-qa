@@ -1,0 +1,6 @@
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArray.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArray.Test\obj\Debug\net7.0\MyArray.Test.csproj.AssemblyReference.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArray.Test\obj\Debug\net7.0\MyArray.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArray.Test\obj\Debug\net7.0\MyArray.Test.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArray.Test\obj\Debug\net7.0\MyArray.Test.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArray.Test\obj\Debug\net7.0\MyArray.Test.csproj.CoreCompileInputs.cache

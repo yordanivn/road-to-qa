@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\bin\Debug\net6.0\Testing string subtractor.exe
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\bin\Debug\net6.0\Testing string subtractor.deps.json
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\bin\Debug\net6.0\Testing string subtractor.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\bin\Debug\net6.0\Testing string subtractor.dll
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\bin\Debug\net6.0\Testing string subtractor.pdb
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.dll
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\refint\Testing string subtractor.dll
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.pdb
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\Testing string subtractor.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Testing Unit functions\Testing string subtractor\obj\Debug\net6.0\ref\Testing string subtractor.dll

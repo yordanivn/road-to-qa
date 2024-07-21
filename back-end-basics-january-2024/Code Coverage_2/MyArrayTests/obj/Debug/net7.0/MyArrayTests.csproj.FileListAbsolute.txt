@@ -1,0 +1,5 @@
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArrayTests\obj\Debug\net7.0\MyArrayTests.csproj.AssemblyReference.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArrayTests\obj\Debug\net7.0\MyArrayTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArrayTests\obj\Debug\net7.0\MyArrayTests.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArrayTests\obj\Debug\net7.0\MyArrayTests.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Code Coverage_2\MyArrayTests\obj\Debug\net7.0\MyArrayTests.csproj.CoreCompileInputs.cache

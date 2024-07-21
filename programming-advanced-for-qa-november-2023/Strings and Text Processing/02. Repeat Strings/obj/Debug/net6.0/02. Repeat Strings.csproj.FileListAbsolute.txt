@@ -1,0 +1,14 @@
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+C:\Users\yordan.i\source\repos\Strings and Text Processing\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll
