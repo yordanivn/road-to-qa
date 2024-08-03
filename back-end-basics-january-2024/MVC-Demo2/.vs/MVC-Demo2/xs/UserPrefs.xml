@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A6BEBB15-3481-46AF-AD4E-E91E059A32AF}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC-Demo2/Data/Models/Post.cs">
+    <Files>
+      <File FileName="MVC-Demo2/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MVC-Demo2/Data/Models/Post.cs" Line="3" Column="48" />
+      <File FileName="MVC-Demo2/Data/DataConstants.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC-Demo2" expanded="True">
+            <Node name="MVC-Demo2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True">
+                  <Node name="Post.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC-Demo2 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

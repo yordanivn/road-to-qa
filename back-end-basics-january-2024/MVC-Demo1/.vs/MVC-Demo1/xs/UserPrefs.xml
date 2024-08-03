@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{3F72E81C-CEA5-4D73-B92B-B27041844761}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC-Demo1/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MVC-Demo1/Controllers/HomeController.cs" Line="37" Column="31" />
+      <File FileName="MVC-Demo1/Views/Shared/_Layout.cshtml" Line="39" Column="126" />
+      <File FileName="MVC-Demo1/Controllers/ProductController.cs" Line="40" Column="33" />
+      <File FileName="MVC-Demo1/Views/Product/All.cshtml" Line="3" Column="36" />
+      <File FileName="MVC-Demo1/Views/Product/ById.cshtml" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC-Demo1" expanded="True">
+            <Node name="MVC-Demo1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Product" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVC-Demo1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
