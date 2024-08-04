@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EE593B83-39A2-4A92-8231-228FEE6EF6B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProductConsoleAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductConsoleAPI/Business/ProductsManager.cs">
+    <Files>
+      <File FileName="ProductConsoleAPI.IntegrationTests.NUnit/IntegrationTests.cs" Line="35" Column="39" />
+      <File FileName="ProductConsoleAPI/Business/ProductsManager.cs" Line="58" Column="99" />
+      <File FileName="ProductConsoleAPI/Data/Models/Product.cs" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductConsoleAPI" expanded="True">
+            <Node name="ProductConsoleAPI" expanded="True">
+              <Node name="Business" expanded="True">
+                <Node name="ProductsManager.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ProductConsoleAPI.IntegrationTests.NUnit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ProductConsoleAPI" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

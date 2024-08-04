@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JsonParser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datasets/Species.json">
+    <Files>
+      <File FileName="Program.cs" Line="19" Column="73" />
+      <File FileName="Models/Species.cs" Line="1" Column="1" />
+      <File FileName="Datasets/Species.json" Line="72" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonParser" expanded="True">
+            <Node name="JsonParser" expanded="True">
+              <Node name="Datasets" expanded="True">
+                <Node name="Species.json" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

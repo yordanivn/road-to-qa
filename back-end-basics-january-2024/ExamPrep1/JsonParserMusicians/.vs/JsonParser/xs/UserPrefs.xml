@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datasets/Musicians.json">
+    <Files>
+      <File FileName="Datasets/Musicians.json" Line="10" Column="31" />
+      <File FileName="Program.cs" Line="43" Column="36" />
+      <File FileName="Models/Musicians.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonParser" expanded="True">
+            <Node name="JsonParser" expanded="True">
+              <Node name="Datasets" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JsonParser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

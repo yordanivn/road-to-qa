@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datasets/Astronauts.json">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="38" />
+      <File FileName="Datasets/Astronauts.json" Line="107" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JsonParser" expanded="True">
+            <Node name="JsonParser" expanded="True">
+              <Node name="Datasets" expanded="True">
+                <Node name="Astronauts.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JsonParser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

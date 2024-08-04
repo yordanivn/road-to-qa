@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{58FEDCB6-A882-48A0-A171-2E59E89B6DD1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GardenConsoleAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GardenConsoleAPI.IntegrationTests.NUnit/IntegrationTests.cs">
+    <Files>
+      <File FileName="GardenConsoleAPI.IntegrationTests.NUnit/IntegrationTests.cs" Line="317" Column="14" />
+      <File FileName="GardenConsoleAPI/Data/Models/Plant.cs" Line="30" Column="35" />
+      <File FileName="GardenConsoleAPI/DataAccess/PlantsRepository.cs" Line="15" Column="27" />
+      <File FileName="GardenConsoleAPI/Common/ValidationConstants.cs" Line="6" Column="71" />
+      <File FileName="GardenConsoleAPI/Business/PlantsManager.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GardenConsoleAPI" expanded="True">
+            <Node name="GardenConsoleAPI" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Common" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="DataAccess" expanded="True">
+                <Node name="Contracts" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="GardenConsoleAPI.IntegrationTests.NUnit" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GardenConsoleAPI">
+            <Node name="GardenConsoleAPI.IntegrationTests.NUnit">
+              <Node name="GardenConsoleAPI.IntegrationTests.NUnit">
+                <Node name="IntegrationTests" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

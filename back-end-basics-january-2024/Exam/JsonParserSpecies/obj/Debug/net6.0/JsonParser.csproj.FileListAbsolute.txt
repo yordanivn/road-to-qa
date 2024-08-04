@@ -1,0 +1,16 @@
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/bin/Debug/net6.0/JsonParser
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/bin/Debug/net6.0/Datasets/Species.json
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/bin/Debug/net6.0/JsonParser.deps.json
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/bin/Debug/net6.0/JsonParser.runtimeconfig.json
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/bin/Debug/net6.0/JsonParser.dll
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/bin/Debug/net6.0/JsonParser.pdb
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.csproj.AssemblyReference.cache
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.AssemblyInfoInputs.cache
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.AssemblyInfo.cs
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.csproj.CoreCompileInputs.cache
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.dll
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/refint/JsonParser.dll
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.pdb
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/JsonParser.genruntimeconfig.cache
+/Users/yordan.i/Personal/Softuni/Exam/JsonParserSpecies/obj/Debug/net6.0/ref/JsonParser.dll

@@ -1,0 +1,126 @@
+[
+    {
+        "participantName":"Emma Johnson",
+        "participantId":101,
+        "dateOfBirth":"1988-03-21",
+        "preferredGenres":["Classical","Jazz"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Violin",
+                "experienceLevel":4.2
+            }
+        ]
+
+    },
+    {
+        "participantName":"Liam Brown",
+        "participantId":102,
+        "dateOfBirth":"1992-07-12",
+        "preferredGenres":["Rock","Pop"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Guitar",
+                "experienceLevel":3.5
+            },
+            {
+                "instrumentName":"Drums",
+                "experienceLevel":3.0
+            }
+        ]
+
+    },
+     {
+        "participantName":"Olivia Martinez",
+        "participantId":103,
+        "dateOfBirth":"1995-01-08",
+        "preferredGenres":["Rock","Metal"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Drums",
+                "experienceLevel":4.0
+            },
+            {
+                "instrumentName":"Bass Guitar",
+                "experienceLevel":3.5
+            }
+        ]
+
+    },
+
+    {
+        "participantName":"Noah Garcia",
+        "participantId":104,
+        "dateOfBirth":"1989-09-15",
+        "preferredGenres":["Funk","Blues"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Bass Guitar",
+                "experienceLevel":4.5
+            },
+            {
+                "instrumentName":"Keyboard",
+                "experienceLevel":3.2
+            }
+        ]
+
+    },
+    {
+        "participantName":"Sophia Rodriguez",
+        "participantId":105,
+        "dateOfBirth":"1993-05-22",
+        "preferredGenres":["Pop","Electronic"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Keyboard",
+                "experienceLevel":3.3
+            },
+            {
+                "instrumentName":"Violin",
+                "experienceLevel":3.1
+            }
+        ]
+
+    },
+
+    {
+        "participantName":"Mason Lee",
+        "participantId":106,
+        "dateOfBirth":"1991-11-30",
+        "preferredGenres":["Jazz","Classical"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Saxophone",
+                "experienceLevel":3.7
+            },
+            {
+                "instrumentName":"Clarinet",
+                "experienceLevel":3.4
+            }
+        ]
+
+    },
+    {
+        "participantName":"Isabella Harris",
+        "participantId":107,
+        "dateOfBirth":"1996-02-19",
+        "preferredGenres":["Opera","Classical"],
+        "instrumentSkills":
+        [
+            {
+                "instrumentName":"Cello",
+                "experienceLevel":4.1
+            },
+            {
+                "instrumentName":"Viola",
+                "experienceLevel":3.8
+            }
+        ]
+
+    }
+]
