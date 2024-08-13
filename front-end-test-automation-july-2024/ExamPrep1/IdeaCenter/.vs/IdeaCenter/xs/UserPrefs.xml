@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{A39F3092-B3BB-48C9-9BCE-8EAA28E1CBCC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/BaseTest.cs">
+    <Files>
+      <File FileName="Pages/BasePage.cs" />
+      <File FileName="Pages/LoginPage.cs" />
+      <File FileName="Pages/CreateIdea.cs" />
+      <File FileName="Pages/IdeasReadPage.cs" />
+      <File FileName="Tests/IdeaCenterTests.cs" Line="69" Column="32" />
+      <File FileName="Tests/BaseTest.cs" Line="16" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdeaCenter" expanded="True">
+            <Node name="IdeaCenter" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="BaseTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IdeaCenter" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IdeaCenter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
