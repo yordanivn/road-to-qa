@@ -1,0 +1,351 @@
+{
+  "id": "7cda824b-2c93-47ab-8b79-7193bea46f15",
+  "version": "2.0",
+  "name": "RegularExam",
+  "url": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85/",
+  "tests": [{
+    "id": "75daaf62-91ee-43b0-a494-ddbb33cd80d8",
+    "name": "1-HomePageNavigationNonLoggedUserTest",
+    "commands": [{
+      "id": "144a58ca-cabc-41ca-aa4e-9ffa81207934",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f225c85-6706-4b44-8832-2a60ccb60261",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1200x800",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "30c641cc-ac4b-4b74-a553-32fd1e6128ee",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Home Page - Foody.WebApp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c56aa696-3523-4bdc-9667-d6af5814d7ec",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//a[@class='nav-link' and text()='Sign Up']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "36b7f342-0035-4a41-901b-80f2183aa35d",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//a[@class='nav-link' and text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1c851cd5-f633-4700-be29-9938a5d2df7c",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//a[@class='btn btn-primary btn-xl rounded-pill mt-5']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1a931cf6-9938-496a-a09d-609d56a20dc6",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "addf2ece-9488-4cef-8829-fa81fa7b221f",
+    "name": "2-LoginTest",
+    "commands": [{
+      "id": "e052ee69-ec48-4288-acb3-c4d822025db2",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f5017861-dd75-4ed1-a9b7-6ba136b9b461",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1200x800",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3fe9d873-0dbb-4146-8d01-98c070e2d4d2",
+      "comment": "",
+      "command": "click",
+      "target": "//a[@class='nav-link' and text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5561e9d0-7a79-48e3-8637-c6c1d3d1cec6",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='Username']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0363492a-48d0-413a-897d-13c71f28a050",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='Username']",
+      "targets": [],
+      "value": "batdancho"
+    }, {
+      "id": "1cefeb14-bc04-463c-9a41-0946fa2521a9",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='Password']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "28f36017-3d8a-4ef9-bfe9-a79799bfac29",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='Password']",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "533f4bc1-2549-42df-8c50-92dfa871eb89",
+      "comment": "",
+      "command": "click",
+      "target": "//button[@class='btn btn-primary btn-block fa-lg gradient-custom-2 mb-3']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "caef6b61-d087-4c7c-8fca-147bc67a4069",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//a[@class='nav-link mx-3']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7aef2595-3866-42aa-aba6-0371e44ef806",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//a[@class='nav-link' and text()='Add Food']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b17bd8e4-a7c4-4b0d-adaa-7198c6cb9a70",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//a[@class='nav-link' and text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bd3bf41d-cc0d-4af7-ac85-492590c62fd9",
+      "comment": "",
+      "command": "assertText",
+      "target": "//h2[@class='masthead-subheading mb-0']",
+      "targets": [],
+      "value": "Welcome, batdancho!"
+    }, {
+      "id": "606b2c1b-6a28-49b5-88b6-c2bc7f306064",
+      "comment": "",
+      "command": "click",
+      "target": "//a[@class='nav-link' and text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d42bf65d-4bfb-4ec3-b582-3241d3829c23",
+      "comment": "",
+      "command": "verifyText",
+      "target": "//h2[@class='masthead-subheading mb-0']",
+      "targets": [],
+      "value": "Share your homemade or store-bought food with us!"
+    }, {
+      "id": "413c5289-f468-4011-bf8a-85aa278b9eca",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "eb0cdcdd-f74d-4425-b231-ebf5536251e2",
+    "name": "3-EditProfileTest",
+    "commands": [{
+      "id": "47610d60-8e5b-4e55-acc1-bd39c2a64d63",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f3091360-bdd5-4df8-a4ce-a080f788d897",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1200x800",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "88a7cdf2-b61e-4977-932a-e8802dda30b8",
+      "comment": "",
+      "command": "click",
+      "target": "//a[@class='nav-link' and text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "22e213e5-ab18-4fea-af6c-379d64e4afe5",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='Username']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "866d4bf7-f293-4bf7-b057-e1a221cfc3eb",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='Username']",
+      "targets": [],
+      "value": "batdancho"
+    }, {
+      "id": "da5562ee-3eda-4778-abb0-0a8881b42642",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='Password']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "01ca01c1-b5d0-4926-98c9-e46b10be2ab5",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='Password']",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "f77299cc-dc50-4c11-9559-221d3e46d7f7",
+      "comment": "",
+      "command": "click",
+      "target": "//button[@class='btn btn-primary btn-block fa-lg gradient-custom-2 mb-3']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1b198e8c-a717-4eb8-9df3-81bcbb2e20f1",
+      "comment": "",
+      "command": "click",
+      "target": "//a[@class='nav-link mx-3']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fa4e9120-a36f-4081-89c4-6e736e7a5892",
+      "comment": "",
+      "command": "click",
+      "target": "//a[@class='btn btn-primary']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1d385903-b0e9-4cfa-85f8-be3271517a60",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='FirstName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9884392d-f96d-4b3f-a385-665b04f7b92b",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='FirstName']",
+      "targets": [],
+      "value": "Yordan"
+    }, {
+      "id": "23de0c9b-cf77-4e03-b057-199f3b592f4b",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='MiddleName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ab489a7b-4141-40ce-9999-96be8c301524",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='MiddleName']",
+      "targets": [],
+      "value": "Todorov"
+    }, {
+      "id": "c8fefcfd-cc2c-4e0b-8d72-dd2f8fd8746c",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='LastName']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3b31f695-8c4f-4d15-81e6-402525e41282",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='LastName']",
+      "targets": [],
+      "value": "Ivanov"
+    }, {
+      "id": "5ac0deb5-01ea-4645-b986-abe6a434da33",
+      "comment": "",
+      "command": "click",
+      "target": "//input[@name='About']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "24ede2aa-42f7-4674-b8f4-d80dd7d2e083",
+      "comment": "",
+      "command": "type",
+      "target": "//input[@name='About']",
+      "targets": [],
+      "value": "my bio"
+    }, {
+      "id": "89be83a7-918d-49a4-abea-eed4cf6c3ed3",
+      "comment": "",
+      "command": "click",
+      "target": "//div[@class='text-center pt-1 mb-5 pb-1']//button",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "090bbc13-7891-4a56-9f2f-0c5ba18e88d2",
+      "comment": "",
+      "command": "assertText",
+      "target": "//p[@class='text-muted mb-0']",
+      "targets": [],
+      "value": "Yordan Todorov Ivanov"
+    }, {
+      "id": "1535e6ec-178f-42e1-a727-16a1b8c0e34b",
+      "comment": "",
+      "command": "assertText",
+      "target": "(//p[@class='mb-1'])[1]",
+      "targets": [],
+      "value": "my bio"
+    }, {
+      "id": "1ee314c8-b981-4ab5-a181-ef33243d3066",
+      "comment": "",
+      "command": "click",
+      "target": "//a[@class='nav-link' and text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5bf9e203-02e2-46a0-8196-535cbc6e155e",
+      "comment": "",
+      "command": "verifyText",
+      "target": "//h2[@class='masthead-subheading mb-0']",
+      "targets": [],
+      "value": "Share your homemade or store-bought food with us!"
+    }, {
+      "id": "0c2c99ec-ce2c-449b-94da-4f78b56c11ce",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "980f6d14-1f6e-48fa-b037-ea1ae081737f",
+    "name": "Application-Functionality",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["75daaf62-91ee-43b0-a494-ddbb33cd80d8", "addf2ece-9488-4cef-8829-fa81fa7b221f", "eb0cdcdd-f74d-4425-b231-ebf5536251e2"]
+  }],
+  "urls": ["http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85/"],
+  "plugins": []
+}
