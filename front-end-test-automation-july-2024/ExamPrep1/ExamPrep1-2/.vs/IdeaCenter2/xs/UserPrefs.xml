@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A6E36CC6-9518-4E69-9ED8-6EDA4EAA2C01}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExamPrep1-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdeaCenterTests.cs">
+    <Files>
+      <File FileName="IdeaCenterTests.cs" Line="65" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdeaCenter2" expanded="True">
+            <Node name="ExamPrep1-2" expanded="True">
+              <Node name="IdeaCenterTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IdeaCenter2">
+            <Node name="ExamPrep1-2">
+              <Node name="ExamPrep1_2">
+                <Node name="IdeaCenterTests">
+                  <Node name="DeleteLastIdeaTest - d42ccef3-8024-63ff-bb02-9425dd7188c0" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
